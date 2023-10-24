@@ -199,4 +199,4 @@ plot(URCHINS~TREAT, data=andrew)
 AOV.4 <- update(AOV.2, .~URCHINS + Error(PATCH)) #the larger extent of removal the more algea there are 
 summary(AOV.4)
 
-#Maybe can make more replicates in each patch. 
+#Maybe can make more replicates in each patch. Pilot study could help to know how much needed to have significancies
