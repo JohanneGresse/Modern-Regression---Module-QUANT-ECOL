@@ -176,5 +176,7 @@ summary(GLM.R2)
 
 drop1(GLM.R2, test="F")
 
+#Could also Effects to see each effect P and K two different curve maybe not most appropriate
+
 
 
