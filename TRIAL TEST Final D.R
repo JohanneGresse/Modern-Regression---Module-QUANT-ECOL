@@ -1,4 +1,11 @@
-#POisson count data spiders
+##correction homework mixed effect model
+LME.2(update (LME.1, ramdom= ~Soil|Pot)
+anova(LME.1, LME.2
+fixef(LME.1
+
+
+#EXAM TEEEST
+#Poisson count data spiders
 #Import data
 spider <- read.delim("clipboard", as.is=F)
 summary(spider)
